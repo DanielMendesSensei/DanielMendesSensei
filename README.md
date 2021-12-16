@@ -1,16 +1,17 @@
-### Hi there 👋
+<img align="right" height="590em" src="![Profile](https://user-images.githubusercontent.com/74942522/146465734-04ddc936-26ab-4559-a534-716efd22678f.jpg)"/>
 
-<!--
-**DanielMendesSensei/DanielMendesSensei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hi there! Welcome to my Github profile.
+### My name is Daniel Mendes and my nickname is "Jony CMOS"!
 
-Here are some ideas to get you started:
+- 🔭 I'm currently working on a file converter program and I teach robotics classes in courses.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I'm currently learning Python.
+
+- 👯 I am looking to collaborate on research and teaching projects for companies.
+
+- 🤔 I'm looking for help with TensorFlow and other AI frameworks.
+
+- 💬 ask me about **C, C++, Python, HTML, CSS, Physics, Electronics, Arduino, Illustrator, Pixel Art.**
+
+- ⚡ Fun fact: **I'm majoring in Physics.**
 -->
