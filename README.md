@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="![Profile](https://user-images.githubusercontent.com/74942522/146465734-04ddc936-26ab-4559-a534-716efd22678f.jpg)"/>
+<img align="right" height="590em" src="https://user-images.githubusercontent.com/74942522/146465734-04ddc936-26ab-4559-a534-716efd22678f.jpg"/>
 
 ## 👋 Hi there! Welcome to my Github profile.
 ### My name is Daniel Mendes and my nickname is "Jony CMOS"!
