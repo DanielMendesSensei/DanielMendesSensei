@@ -49,7 +49,5 @@
 ## 👨🏽‍🦲 &nbsp;Social Links
 
 <p align="left" style="background:green">
-<a href="www.linkedin.com/in/daniel-jose-da-silva-mendes-2bb155192" target="_blank">
-	<img align="center" src="https://img.shields.io/badge/-DanielMendesSensei-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
+<a href="www.linkedin.com/in/daniel-jose-da-silva-mendes-2bb155192" target="_blank"><img align="center" src="https://img.shields.io/badge/-DanielMendesSensei-05122A?style=flat&logo=linkedin" alt="linkedin"/></a>
 </p>
