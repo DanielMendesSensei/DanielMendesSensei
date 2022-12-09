@@ -8,11 +8,11 @@
 
 - 🔭 I'm currently working on a file converter program and I teach robotics classes in courses.
 
-- 🌱 I'm currently learning Python.
+- 🌱 I'm currently learning Django and majoring in Analysis and systems development.
 
 - 👯 I am looking to collaborate on research and teaching projects for companies.
 
-- 🤔 I'm looking for help with TensorFlow and other AI frameworks.
+- 🤔 I'm looking for a job in IT area.
 
 - 💬 ask me about **C, C++, Python, HTML, CSS, Physics, Electronics, Arduino, Illustrator, Pixel Art.**
 
@@ -49,7 +49,7 @@
 ## 👨🏽‍🦲 &nbsp;Social Links
 
 <p align="left" style="background:green">
-<a href="https://www.linkedin.com/in/daniel-jos%C3%A9-mendes-2bb155192/" target="_blank">
+<a href="www.linkedin.com/in/daniel-jose-da-silva-mendes-2bb155192" target="_blank">
 	<img align="center" src="https://img.shields.io/badge/-DanielMendesSensei-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 </p>
