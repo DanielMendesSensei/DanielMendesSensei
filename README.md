@@ -6,15 +6,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DanielMendesSensei&color=green" alt="Profile views"/> <p>
 
 
-- 🔭 I'm currently working on a file converter program and I teach robotics classes in courses.
+- 🔭 I'm currently working on a file converter program, my portfolio web site, and I teach full stack programming on SOMAS.org.
 
-- 🌱 I'm currently learning Python.
+- 🌱 I'm currently learning Django and React.
 
 - 👯 I am looking to collaborate on research and teaching projects for companies.
 
-- 🤔 I'm looking for help with TensorFlow and other AI frameworks.
+- 🤔 I'm looking for help with API with Python.
 
-- 💬 ask me about **C, C++, Python, HTML, CSS, Physics, Electronics, Arduino, Illustrator, Pixel Art.**
+- 💬 ask me about **C, C++, Python, HTML, CSS, JavaScript, Physics, Electronics, Arduino, Illustrator, Pixel Art.**
 
 - ⚡ Fun fact: **I'm majoring in Physics.**
 
@@ -27,6 +27,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50px"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50px"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50px"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original-wordmark.svg" width="50px"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50px"/>&nbsp;
