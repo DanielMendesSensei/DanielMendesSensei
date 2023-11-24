@@ -6,13 +6,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DanielMendesSensei&color=green" alt="Profile views"/> <p>
 
 
-- 🔭 I'm currently working on a file converter program, my portfolio web site, and I teach full stack programming on SOMAS.org.
+- 🔭 I'm currently working on a file converter program, my portfolio web site, and I teach full stack programming on Programadores do Amanhã.org.
 
-- 🌱 I'm currently learning Django and React.
+- 🌱 I'm currently learning Java, Spring Boot and React.
 
 - 👯 I am looking to collaborate on research and teaching projects for companies.
 
-- 🤔 I'm looking for help with API with Python.
+- 🤔 I'm looking for help with JPA.
 
 - 💬 ask me about **C, C++, Python, HTML, CSS, JavaScript, Physics, Electronics, Arduino, Illustrator, Pixel Art.**
 
