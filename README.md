@@ -41,7 +41,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img width="580em" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" /></a>
+  <img width="630em" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" /></a>
 </div>
 <p align="center">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=DanielMendesSensei&show_icons=true&theme=merko" alt="Daniel Mendes Stats"/>
