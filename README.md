@@ -6,13 +6,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DanielMendesSensei&color=green" alt="Profile views"/> <p>
 
 
-- 🔭 I'm currently working on a file converter program, my portfolio web site, and I teach full stack programming on Programadores do Amanhã.org.
+- 🔭 I'm currently working on a file converter program, my portfolio web site, a new YouTube downloader app, and I teach full stack programming on Programadores do Amanhã.org.
 
-- 🌱 I'm currently learning Java, Spring Boot and React.
+- 🌱 I'm currently learning Node, TypeScript, Java, Spring Boot and React,.
 
 - 👯 I am looking to collaborate on research and teaching projects for companies.
 
-- 🤔 I'm looking for help with JPA.
+- 🤔 I'm looking for help with JPA and JWT.
 
 - 💬 ask me about **C, C++, Python, HTML, CSS, JavaScript, Physics, Electronics, Arduino, Illustrator, Pixel Art.**
 
@@ -37,14 +37,19 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="50px"/>&nbsp;
 
 <br><br>
-
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
+<p align="center">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=DanielMendesSensei&show_icons=true&theme=merko" alt="Daniel Mendes Stats"/>
 </p>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMendesSensei&layout=compact&theme=merko" alt="Daniel Mendes most languages"/>
 
+<!--- snake -->
+<div align="center">
+  <img width="530em" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" /></a>
+</div>
+<p align="center">
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMendesSensei&layout=compact&theme=merko" alt="Daniel Mendes most languages"/>
+</p>
 <br><br>
 
 ## 👨🏽‍🦲 &nbsp;Social Links
