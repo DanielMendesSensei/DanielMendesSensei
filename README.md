@@ -1,7 +1,7 @@
 <img align="right" height="590em" src="https://user-images.githubusercontent.com/74942522/146465734-04ddc936-26ab-4559-a534-716efd22678f.jpg"/>
 
 ## <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Hi there! Welcome to my Github profile.
-### My name is Daniel Mendes and my nickname is "Jony CMOS"!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=21F738&random=false&width=435&height=35&lines=My+name+is+Daniel+Mendes!;I'm+a+Full+Stack+developer!;I'm+a+Teacher!;I+have+26+years+old!;My+nickname+is+%22Jony+CMOS%22!)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DanielMendesSensei&color=green" alt="Profile views"/> <p>
 
@@ -41,7 +41,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img width="700em" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" /></a>
+  <img width="900em" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" /></a>
 </div>
 <br>
 
