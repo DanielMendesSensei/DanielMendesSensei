@@ -64,6 +64,6 @@
 
 <p align="left" style="background:green">
 <a href="https://www.linkedin.com/in/daniel-jos%C3%A9-mendes-2bb155192/" target="_blank">
-	<img align="center" src="https://img.shields.io/badge/-DanielMendesSensei-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+	<img align="center" src="https://www.linkedin.com/in/daniel-jose-da-silva-mendes-2bb155192/" alt="linkedin"/>
 </a>
 </p>
