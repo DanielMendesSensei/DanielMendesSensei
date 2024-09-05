@@ -4,10 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DanielMendesSensei&color=green" alt="Profile views"/> <p>
 
+<p>💻My website: <a> Sensei Daniel Mendes</a></p>
+
+<br>
+
 <img align="right" height="590em" src="https://user-images.githubusercontent.com/74942522/146465734-04ddc936-26ab-4559-a534-716efd22678f.jpg"/>
-
-
-
 
 - 🔭 I'm currently working on a file converter program, my portfolio web site, a new YouTube downloader app, and I teach full stack programming on Programadores do Amanhã.org.
 
@@ -43,13 +44,15 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="50px"/>&nbsp;
 
-<br><br>
+<br>
+
 ## ⚙️ &nbsp;GitHub Analytics
 
 <!--- snake -->
 <div align="center">
-  <img width="900em" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" /></a>
+  <img src="assets/grid-snake.svg" alt="snake" width="900em">
 </div>
+
 <br>
 
 <p align="center">
@@ -58,12 +61,10 @@
 <p align="center">
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMendesSensei&layout=compact&theme=merko" alt="Daniel Mendes most languages"/>
 </p>
-<br><br>
+<br>
 
-## 👨🏽‍🦲 &nbsp;Social Links
+## 👨🏾‍💻 &nbsp;Social Links
 
-<p align="left" style="background:green">
-<a href="https://www.linkedin.com/in/daniel-jos%C3%A9-mendes-2bb155192/" target="_blank">
-	<img align="center" src="https://www.linkedin.com/in/daniel-jose-da-silva-mendes-2bb155192/" alt="linkedin"/>
+<a href="https://www.linkedin.com/in/daniel-jose-da-silva-mendes-2bb155192/" target="_blank">
+  <img width="50rem" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/>
 </a>
-</p>
