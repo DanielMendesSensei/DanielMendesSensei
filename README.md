@@ -9,17 +9,17 @@
 
 <br>
 
-<img align="right" height="590em" src="https://user-images.githubusercontent.com/74942522/146465734-04ddc936-26ab-4559-a534-716efd22678f.jpg"/>
+<img align="right" height="590em" src="/assets/About.png"/>
 
-- 🔭 I'm currently working on my startup Criptonic and Co. and I teach full stack programming on [Programadores do Amanhã](https://programadoresdoamanha.org.br/pt).
+- 🔭 I'm currently working on my startup Criptonic and Co. I'm a Software Engineer at Visian Systems, and I teach full stack programming at the NGO [Programadores do Amanhã](https://programadoresdoamanha.org.br/pt).
 
-- 🌱 I'm currently learning React Native, Next.js, TypeScript, Java and Spring Boot,.
+- 🌱 I'm currently learning Django Rest Framework, React Native, Next.js, TypeScript.
 
-- 👯 I'm looking to collaborate on medium and large projects to increase my experience..
+- 🦾 I'm looking for ways to increase the growth of my startup, with investors and people who would like to be part of the cause.
 
 - 🤔 I'm looking for someone's help to promote my startup.
 
-- 💬 ask me about **C, C++, Python, HTML, CSS, JavaScript, Typescript, React, JWT, Physics, Electronics, Arduino, Illustrator, Pixel Art.**
+- 💬 ask me about **Python, Next.Js, HTML, CSS, JavaScript, Typescript, React, JWT, Physics, Electronics, Arduino, Illustrator, Pixel Art.**
 
 - ⚡ Fun fact: **I studied Physics.**
 
